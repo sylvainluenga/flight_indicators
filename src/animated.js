@@ -40,3 +40,5 @@ export default class Animated extends Disposable {
     this.lerps = {};
   }
 }
+
+// Alex Sylvain Luenga

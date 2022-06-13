@@ -25,3 +25,5 @@ export const colors = {
   // color for a compass / vor rose on a sectional
   compassRose: "#084e8a"
 };
+
+// Alex Sylvain Luenga

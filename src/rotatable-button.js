@@ -225,3 +225,5 @@ export default class Rotatable extends Animated {
     });
   }
 }
+
+// Alex Sylvain Luenga

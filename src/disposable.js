@@ -92,3 +92,5 @@ export default class Disposable {
     this.listeners.forEach(l => l(this));
   }
 }
+
+// Alex Sylvain Luenga

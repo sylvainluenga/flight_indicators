@@ -375,3 +375,5 @@ export const airplaneNoseView = (snap, center, width, fill) => {
 
   return snap.g(wing, vs, hs);
 };
+
+// Alex Sylvain Luenga

@@ -332,3 +332,5 @@ export default class TachometerAnalog extends Instrument {
     this.setNeedle(this.airplane.rpm);
   }
 }
+
+// Alex Sylvain Luenga

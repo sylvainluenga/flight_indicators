@@ -134,7 +134,7 @@ export const arrowNeedle = (
       });
     }
   };
-};
+};  // Alex Sylvain Luenga
 
 /**
  * Dagger shaped needle e.g. the thousands needle of the altimeter

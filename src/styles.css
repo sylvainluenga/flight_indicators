@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+  padding: 0;
+  margin: 1rem;
+  text-align: center;
+}
+
+/* generally we don't want any text elements to be selectable */
+svg text {
+  user-select: none;
+}
+
+svg .clickable {
+  cursor: pointer;
+}
+
+p {
+  text-align: center;
+  border: 1px solid lightgray;
+  color: gray;
+  padding: 1rem;
+  margin: 1rem;
+}

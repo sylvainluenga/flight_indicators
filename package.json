@@ -1,0 +1,19 @@
+{
+  "name": "six-pack-flight-instruments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "DOMArray": "1.0.0",
+    "snapsvg-cjs": "0.0.6"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
